@@ -1,0 +1,80 @@
+{
+    "trust": "Imperial",
+    "responses": [
+        {
+            "date": "2020-02-17T20:50:12+0000",
+            "response": [
+                {
+                    "questionCode": "1",
+                    "reply": 0
+                },
+                {
+                    "questionCode": "2",
+                    "reply": 1
+                },
+                {
+                    "questionCode": "3",
+                    "reply": 3
+                },
+                {
+                    "questionCode": "4",
+                    "reply": 1
+                },
+                {
+                    "questionCode": "5",
+                    "reply": 4
+                }
+            ]
+        },
+        {
+            "date": "2020-02-17T20:51:12+0000",
+            "response": [
+                {
+                    "questionCode": "1",
+                    "reply": 0
+                },
+                {
+                    "questionCode": "2",
+                    "reply": 0
+                },
+                {
+                    "questionCode": "3",
+                    "reply": 0
+                },
+                {
+                    "questionCode": "4",
+                    "reply": 1
+                },
+                {
+                    "questionCode": "5",
+                    "reply": 3
+                }
+            ]
+        },
+        {
+            "date": "2020-02-16T19:51:12+0000",
+            "response": [
+                {
+                    "questionCode": "1",
+                    "reply": 0
+                },
+                {
+                    "questionCode": "2",
+                    "reply": 0
+                },
+                {
+                    "questionCode": "3",
+                    "reply": 0
+                },
+                {
+                    "questionCode": "4",
+                    "reply": 1
+                },
+                {
+                    "questionCode": "5",
+                    "reply": 3
+                }
+            ]
+        }
+    ]
+}

@@ -149,8 +149,10 @@ button:focus {
 }
 
 .ct-target-line {
-	stroke: blue;
-	stroke-width: 2px;
-	stroke-dasharray: 4px;
+	stroke-width: 1px;
 	shape-rendering: crispEdges;
+}
+
+.ct-series-a .ct-bar, .ct-series-a .ct-line, .ct-series-a .ct-point, .ct-series-a .ct-slice-donut {
+	stroke: #40a9ef;
 }
